@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TomSutcliffe/TomsTest/_apis/build/status/TomSutcliffe.pipelines-python-django)](https://dev.azure.com/TomSutcliffe/TomsTest/_build/latest?definitionId=2)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
